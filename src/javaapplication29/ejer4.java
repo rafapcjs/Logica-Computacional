@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @authorAntonio
+ * @author rafael
  */
 public class ejer4 {
     public void ejer4(){
