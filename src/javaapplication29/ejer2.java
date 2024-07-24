@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Antonio
+ * @author rafael
  */
 public class ejer2 {
 //    //2. Desarrolle el algoritmo de la empresa XYZ, que permita calcular
