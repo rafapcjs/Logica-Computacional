@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Antonio
+ * @author rafael
  */
 public class ejer3 {
     int nu;
